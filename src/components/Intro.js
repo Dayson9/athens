@@ -6,6 +6,7 @@ const Intro = new subComponent('Intro', {
       <section>
         <h1 class='silver'>Silver Text</h1>
         <Text { txt: 'Hello World', class: 'silver'} />
+        <img src="./src/assets/athens.png">
       </section>
     `
   },
